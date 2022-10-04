@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Tushar Pal<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Front+End+Developer;Freelancer;Open-Source+Enthusiast;Nice+To+Meet+You+...&center=true">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Android+Developer;Freelancer;Open-Source+Enthusiast;Nice+To+Meet+You+...&center=true">
   </p>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=parul5sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="parul5sahoo" /> </p>
 
@@ -45,9 +45,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	
-   <a href="https://Kotlinlang.org/en-US/docs/Web/JavaScript" target="_blank" >
+   <a href="[https://Kotlinlang.org/en-US/docs/Web/JavaScript](https://kotlinlang.org/)" target="_blank" >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/jkotlin-original.svg"
+      src="(#kotlin-logo-large_svg__a"
       alt="kotlin"
       width="40"
       height="40"
